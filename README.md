@@ -34,3 +34,7 @@ css
 npx ts-node src/Cli.ts
 Follow the prompts to build your vehicle and interact with it.
 
+#### Walkthrough Video
+[Watch the walkthrough](https://drive.google.com/file/d/12SK2CjthBzENRCXlY0wX_u2cutLLHtld/view?usp=sharing)
+
+
